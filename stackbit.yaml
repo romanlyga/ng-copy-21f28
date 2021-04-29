@@ -454,8 +454,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: enum
-          options: []
+          type: number
       - type: model
         name: seo
         models:
@@ -1693,6 +1692,4 @@ models:
               label: Key Name
             - type: boolean
               name: relativeUrl
-              label: Relative Url
-elativeUrl
               label: Relative Url
