@@ -454,7 +454,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: file
+          type: text
       - type: model
         name: seo
         models:
